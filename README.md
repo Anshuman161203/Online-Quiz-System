@@ -18,3 +18,30 @@ The Student Users can only take the exam, view their results and send feedback t
 - View Ranking By Exam
 - View Examinee Results
 - Read Feedbacks
+
+# Admin Panel 
+
+As an administrator, you wield the power to manage every facet of the examination process. From overseeing courses and exams to curating exam questionnaires and managing examinees’ data, the admin panel serves as your command center. With intuitive features like viewing rankings by exam and accessing examinee results and feedback, you’re equipped with invaluable insights to drive educational excellence.
+
+# Students/Examinees
+
+- Take the Exams
+- View their Results
+- Send a Feedback
+
+# Empowering Students
+
+For students, the system offers a user-friendly interface to navigate through exams effortlessly. With the ability to take exams, view results in real-time, and provide feedback, students are empowered to engage actively in their learning journey. The inclusion of a timer ensures that examinations adhere to stipulated timeframes, fostering a disciplined approach to test-taking.
+
+# Online Quiz System
+
+- Name of Project:  Online Examination System With Timer Project
+- Language:               PHP
+- Databases used:         MySQL
+- Design used:            HTML JavaScript, Ajax, JQuery, Bootstrap
+- Browser used:           IE8, Google Chrome, Opera Mozilla
+- Software used:          WAMP/ XAMPP/ LAMP/MAMP
+
+# Screenshots
+
+
