@@ -65,5 +65,13 @@ After Creating Database
 - Username: admin@username
 - Password: admin@password
 
+# Conclusion
+
+In conclusion, the Online Quiz System with Timer stands as a testament to the fusion of education and technology. By embracing this innovative platform, educational institutions can revolutionize the examination process, fostering a conducive environment for learning and growth. Let’s embark on this journey together, empowering learners to excel and thrive in the digital landscape.
+
+# Project By
+- Anshuman Roshan
+- 22BCS14129
+
 
 
